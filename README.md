@@ -5,7 +5,7 @@ Wireless
       and
         Telemetry
         
-What most people consider "Home automation" is really just remote control.
+Most people consider "Home automation" as just remote control.
 While remote control is certianly a piece of any smart home, it is one
 of the smaller pieces.
 
