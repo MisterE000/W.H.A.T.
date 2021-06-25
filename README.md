@@ -28,3 +28,7 @@ if it is open, and reporting back if it is unable (a toy in the way).  It should
 also be aware that if the car is remote started (via the network), that it should 
 open.
 
+Start by cloning the project:
+  Make a directory on your local machine to hold the files.
+  use a command prompt to "pull" down the source code:
+    git clone https://github.com/MisterE000/W.H.A.T..git --recurse-submodules
